@@ -56,9 +56,3 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sans532&icon=0&color=0" alt="Profile Views"/>
-</p>
-
-<p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
